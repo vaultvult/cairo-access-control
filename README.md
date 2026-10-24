@@ -2,7 +2,6 @@
 ---
 
 ### 2. Cairo (StarkNet) - `cairo-access-control`
-**Why it's dope:** It focuses on zero-knowledge rollups, strict admin assertions, and event logging for off-chain monitoring.
 
 ```markdown
 # Cairo Access Control 🔐
