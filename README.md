@@ -1,7 +1,7 @@
 
 ---
 
-### 2. Cairo (StarkNet) - `cairo-access-control`
+### Cairo (StarkNet) - `cairo-access-control`
 
 ```markdown
 # Cairo Access Control 🔐
